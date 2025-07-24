@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "crypto_bot.py", 
+      "use": "@vercel/python"
+    }
+  ]
+}
